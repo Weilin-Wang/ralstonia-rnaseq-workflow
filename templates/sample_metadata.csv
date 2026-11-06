@@ -1,0 +1,5 @@
+sample,well,group,genotype,time
+SAMPLE_01,A1,A,mutant,T1
+SAMPLE_02,B1,B,WT,T1
+SAMPLE_03,C1,C,mutant,T2
+SAMPLE_04,D1,D,WT,T2

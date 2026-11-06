@@ -1,0 +1,11 @@
+# data and outputs stay out of this repository
+inputs/
+fastq/
+results/
+work/
+ref_download/
+.nextflow/
+.nextflow.log*
+*.fq.gz
+*.fastq.gz
+*.rds
